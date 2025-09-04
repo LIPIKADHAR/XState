@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import './States.css';
+import '.components/States.css';
 export default function States(){
 
 let countryEndPoint = 'https://crio-location-selector.onrender.com/countries';
