@@ -1,6 +1,6 @@
 
 import './App.css'
-import States from './States';
+import States from './components/States';
 function App(){
   return (
     <>
